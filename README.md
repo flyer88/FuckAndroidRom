@@ -1,2 +1,2 @@
 # FuckAndroidRom
-一个用来收集各种rom适配的库
+一个记录和收集自己Android适配中的坑
